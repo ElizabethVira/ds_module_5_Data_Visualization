@@ -7,5 +7,3 @@ Homework Module 5 - Plotting
         - Box plot
         - Pie chart
     Using the Data Plotting visualizations is very easy make conclusions about the analysis performed, in this case the best or worse drugs regimens, outliers, data distribution, etc.
-    ![alt text](image.png)
-    ![alt text](image-1.png)
